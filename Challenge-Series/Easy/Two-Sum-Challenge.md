@@ -17,4 +17,4 @@ Output: [0,1]
 Input: nums = [4,4], target = 8
 Output: [0,1]
 
-[Solution]()
+[Solution](https://github.com/learnwhilelearning/Data-Structures-and-Algorithms/blob/main/Challenge-Series/Easy/Two-Sum-Solution.py)
