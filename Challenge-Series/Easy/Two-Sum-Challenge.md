@@ -5,28 +5,28 @@ You can return the answer in any order.
 *Example 1:*
 ##
 Input: nums = [2,7,11,15], target = 26
-#
+
 Output: [2,3]
-#
+
 Explanation: Because nums[2] + nums[3] == 26, we return [2, 3].
 
 ##
-##
+
 #
 *Example 2:*
-##
-Input: nums = [3,2,4], target = 5
 #
+Input: nums = [3,2,4], target = 5
+
 Output: [0,1]
 
 ##
-##
+
 #
 *Example 3:*
-##
-Input: nums = [4,4], target = 8
 #
+Input: nums = [4,4], target = 8
+
 Output: [0,1]
 ##
-##
+
 [Solution](https://github.com/learnwhilelearning/Data-Structures-and-Algorithms/blob/main/Challenge-Series/Easy/Two-Sum-Solution.py)
